@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="AutomatedWeatherStation.Views.WeatherHistory.GenerateYearlyChartsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:AutomatedWeatherStation.Views.WeatherHistory"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="300"
+             d:DesignWidth="300"
+             DataContext="{Binding MeasurementsModule,
+                                   Source={StaticResource Locator}}"
+             mc:Ignorable="d">
+    <Grid>
+        <GroupBox Header="View Charts">
+            <StackPanel>
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyTemperatureChart}"
+                        Content="Temperature" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyHumidityChart}"
+                        Content="Humidity" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyPressureChart}"
+                        Content="Pressure" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyRain15Chart}"
+                        Content="Rainfall15M" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyRain24Chart}"
+                        Content="Rainfall24H" />
+
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlyWindChart}"
+                        Content="Wind Speed" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlySolarMinuteChart}"
+                        Content="Solar Irradiance by m" />
+                <Button Width="150"
+                        Margin="2,5,2,2"
+                        Command="{Binding ViewYearlySolarHourChart}"
+                        Content="Solar Irradiance by h" />
+            </StackPanel>
+
+        </GroupBox>
+
+    </Grid>
+</UserControl>

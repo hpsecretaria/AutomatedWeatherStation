@@ -1,0 +1,104 @@
+﻿<UserControl x:Class="AutomatedWeatherStation.Views.Station.StationInformationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="300"
+             d:DesignWidth="300"
+             DataContext="{Binding Source={StaticResource Locator},
+                                   Path=StationsModule.SelectedStation}"
+             mc:Ignorable="d">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Margin="0,0,0,10" Orientation="Horizontal">
+            <TextBlock VerticalAlignment="Center"
+                       FontSize="13"
+                       FontWeight="Bold"
+                       Text="Station Information" />
+            <Button Margin="5,0"
+                    VerticalAlignment="Center"
+                    Background="Transparent"
+                    Command="{Binding Path=EditCommand}"
+                    Content="EDIT" />
+
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Complete Location" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.Location}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="City/Province" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.DisplayLocation}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Area" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.DisplayLocationArea}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="IMEI" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.Imei}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Phone Number" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.PhoneNumber}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Latitude" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.Latitude}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Longitude" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.Longitude}" />
+            </StackPanel>
+            <StackPanel Margin="0,0,0,15">
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="11"
+                           FontWeight="Bold"
+                           Text="Keyword" />
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="13"
+                           Text="{Binding Path=Model.Keyword}" />
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

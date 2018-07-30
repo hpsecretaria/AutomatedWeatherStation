@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AutomatedWeatherStationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="LogID" />
+    </Key>
+    <Property Name="LogID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateSent" Type="DateTime" Precision="7" />
+    <NavigationProperty Name="Measurement" Relationship="Self.FK_Log_Measurement" FromRole="Log" ToRole="Measurement" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Log_Subscriber" FromRole="Log" ToRole="Subscriber" />
+  </EntityType>
+  <EntityType Name="Measurement">
+    <Key>
+      <PropertyRef Name="MeasurementID" />
+    </Key>
+    <Property Name="MeasurementID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Precision="7" />
+    <Property Name="Value" Type="Decimal" Precision="18" Scale="3" />
+    <NavigationProperty Name="Logs" Relationship="Self.FK_Log_Measurement" FromRole="Measurement" ToRole="Log" />
+    <NavigationProperty Name="Station" Relationship="Self.FK_Measurement_Station" FromRole="Measurement" ToRole="Station" />
+  </EntityType>
+  <EntityType Name="Property">
+    <Key>
+      <PropertyRef Name="PropertyID" />
+    </Key>
+    <Property Name="PropertyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Unit" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Sensors" Relationship="Self.FK_Sensor_Property" FromRole="Property" ToRole="Sensor" />
+  </EntityType>
+  <EntityType Name="Sensor">
+    <Key>
+      <PropertyRef Name="SensorID" />
+    </Key>
+    <Property Name="SensorID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SensorName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Property" Relationship="Self.FK_Sensor_Property" FromRole="Sensor" ToRole="Property" />
+    <NavigationProperty Name="Station" Relationship="Self.FK_Sensor_Station" FromRole="Sensor" ToRole="Station" />
+  </EntityType>
+  <EntityType Name="Station">
+    <Key>
+      <PropertyRef Name="StationID" />
+    </Key>
+    <Property Name="StationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="location" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IMEI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Measurements" Relationship="Self.FK_Measurement_Station" FromRole="Station" ToRole="Measurement" />
+    <NavigationProperty Name="Sensors" Relationship="Self.FK_Sensor_Station" FromRole="Station" ToRole="Sensor" />
+  </EntityType>
+  <EntityType Name="Subscriber">
+    <Key>
+      <PropertyRef Name="SubscriberID" />
+    </Key>
+    <Property Name="SubscriberID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SubscriptionPeriod" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ExpiryDate" Type="DateTime" Precision="7" />
+    <NavigationProperty Name="Logs" Relationship="Self.FK_Log_Subscriber" FromRole="Subscriber" ToRole="Log" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Log_Measurement">
+    <End Role="Measurement" Type="Self.Measurement" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Log_Subscriber">
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Measurement_Station">
+    <End Role="Station" Type="Self.Station" Multiplicity="0..1" />
+    <End Role="Measurement" Type="Self.Measurement" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Sensor_Property">
+    <End Role="Property" Type="Self.Property" Multiplicity="1" />
+    <End Role="Sensor" Type="Self.Sensor" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Sensor_Station">
+    <End Role="Station" Type="Self.Station" Multiplicity="1" />
+    <End Role="Sensor" Type="Self.Sensor" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="AutomatedWeatherStationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Logs" EntityType="Self.Log" />
+    <EntitySet Name="Measurements" EntityType="Self.Measurement" />
+    <EntitySet Name="Properties" EntityType="Self.Property" />
+    <EntitySet Name="Sensors" EntityType="Self.Sensor" />
+    <EntitySet Name="Stations" EntityType="Self.Station" />
+    <EntitySet Name="Subscribers" EntityType="Self.Subscriber" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_Log_Measurement" Association="Self.FK_Log_Measurement">
+      <End Role="Measurement" EntitySet="Measurements" />
+      <End Role="Log" EntitySet="Logs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Log_Subscriber" Association="Self.FK_Log_Subscriber">
+      <End Role="Subscriber" EntitySet="Subscribers" />
+      <End Role="Log" EntitySet="Logs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Measurement_Station" Association="Self.FK_Measurement_Station">
+      <End Role="Station" EntitySet="Stations" />
+      <End Role="Measurement" EntitySet="Measurements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sensor_Property" Association="Self.FK_Sensor_Property">
+      <End Role="Property" EntitySet="Properties" />
+      <End Role="Sensor" EntitySet="Sensors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sensor_Station" Association="Self.FK_Sensor_Station">
+      <End Role="Station" EntitySet="Stations" />
+      <End Role="Sensor" EntitySet="Sensors" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AutomatedWeatherStationModelStoreContainer" CdmEntityContainer="AutomatedWeatherStationEntities">
+    <EntitySetMapping Name="Logs">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Log">
+        <MappingFragment StoreEntitySet="Log">
+          <ScalarProperty Name="LogID" ColumnName="LogID" />
+          <ScalarProperty Name="DateSent" ColumnName="DateSent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Measurements">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Measurement">
+        <MappingFragment StoreEntitySet="Measurement">
+          <ScalarProperty Name="MeasurementID" ColumnName="MeasurementID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Properties">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Property">
+        <MappingFragment StoreEntitySet="Property">
+          <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sensors">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Sensor">
+        <MappingFragment StoreEntitySet="Sensor">
+          <ScalarProperty Name="SensorID" ColumnName="SensorID" />
+          <ScalarProperty Name="SensorName" ColumnName="SensorName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stations">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Station">
+        <MappingFragment StoreEntitySet="Station">
+          <ScalarProperty Name="StationID" ColumnName="StationID" />
+          <ScalarProperty Name="location" ColumnName="location" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="IMEI" ColumnName="IMEI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscribers">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.Subscriber">
+        <MappingFragment StoreEntitySet="Subscriber">
+          <ScalarProperty Name="SubscriberID" ColumnName="SubscriberID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="SubscriptionPeriod" ColumnName="SubscriptionPeriod" />
+          <ScalarProperty Name="ExpiryDate" ColumnName="ExpiryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="AutomatedWeatherStationModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Log_Measurement" TypeName="AutomatedWeatherStationModel.FK_Log_Measurement" StoreEntitySet="Log">
+      <EndProperty Name="Measurement">
+        <ScalarProperty Name="MeasurementID" ColumnName="MeasurementID" />
+      </EndProperty>
+      <EndProperty Name="Log">
+        <ScalarProperty Name="LogID" ColumnName="LogID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Log_Subscriber" TypeName="AutomatedWeatherStationModel.FK_Log_Subscriber" StoreEntitySet="Log">
+      <EndProperty Name="Subscriber">
+        <ScalarProperty Name="SubscriberID" ColumnName="SubscriberID" />
+      </EndProperty>
+      <EndProperty Name="Log">
+        <ScalarProperty Name="LogID" ColumnName="LogID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Measurement_Station" TypeName="AutomatedWeatherStationModel.FK_Measurement_Station" StoreEntitySet="Measurement">
+      <EndProperty Name="Station">
+        <ScalarProperty Name="StationID" ColumnName="StationID" />
+      </EndProperty>
+      <EndProperty Name="Measurement">
+        <ScalarProperty Name="MeasurementID" ColumnName="MeasurementID" />
+      </EndProperty>
+      <Condition IsNull="false" ColumnName="StationID" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Sensor_Property" TypeName="AutomatedWeatherStationModel.FK_Sensor_Property" StoreEntitySet="Sensor">
+      <EndProperty Name="Property">
+        <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+      </EndProperty>
+      <EndProperty Name="Sensor">
+        <ScalarProperty Name="SensorID" ColumnName="SensorID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Sensor_Station" TypeName="AutomatedWeatherStationModel.FK_Sensor_Station" StoreEntitySet="Sensor">
+      <EndProperty Name="Station">
+        <ScalarProperty Name="StationID" ColumnName="StationID" />
+      </EndProperty>
+      <EndProperty Name="Sensor">
+        <ScalarProperty Name="SensorID" ColumnName="SensorID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,515 @@
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe.config
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AjaxMin.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignColors.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\Icons.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Login1.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LogInView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Stations\StationsListView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_Content.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.cache
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.lref
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Converter\Converters.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Login1.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LogInView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Stations\StationsListView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.g.resources
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.Properties.Resources.resources
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csproj.GenerateResource.Cache
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.cache
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.compiled
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.exe
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.pdb
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csprojResolveAssemblyReference.cache
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.g.cs
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.baml
+C:\Users\Fe Rosette\Documents\Visual Studio 2015\Projects\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csprojResolveAssemblyReference.cache
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Template\DataTemplates.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\Icons.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\AddDeviceNumberWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\DeviceListView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageLogView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageListView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\AddStationWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationEditInformationView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationInformationView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationListView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\LiveWeatherModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\MapView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\StationWeatherView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\AddDeviceNumberWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\DeviceListView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageLogView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageListView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MiscellaneousModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\AddStationWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationEditInformationView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationInformationView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationListView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyHumidityWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyPressureWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain15Window.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain24Window.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarHourWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarMinutewWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyTempWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyWindSpeedWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyHumidityWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyPressureWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain15Window.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain24Window.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarHourWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarMinuteWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyTempWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyWindSpeedWindow.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_Content.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.cache
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.lref
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe.config
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AjaxMin.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommServer.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommShared.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommunication.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignColors.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\PDUConverter.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Converter\Converters.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\LiveWeatherModuleView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\MapView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\StationWeatherView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MiscellaneousModuleView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationModuleView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyHumidityWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyPressureWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain15Window.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain24Window.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarHourWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarMinutewWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyTempWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyWindSpeedWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyHumidityWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyPressureWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain15Window.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain24Window.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarHourWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarMinuteWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyTempWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyWindSpeedWindow.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.g.resources
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.Properties.Resources.resources
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csproj.GenerateResource.Cache
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.cache
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.compiled
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.exe
+C:\Users\Helson\Desktop\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe.config
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.exe
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AutomatedWeatherStation.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\AjaxMin.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommServer.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommShared.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GSMCommunication.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignColors.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\PDUConverter.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\TableDependency.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Gmap.net.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.Core.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Livecharts.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\MahApps.Metro.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csprojResolveAssemblyReference.cache
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Converter\Converters.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Template\DataTemplates.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\Icons.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\LiveWeatherModuleView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\MapView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\StationWeatherView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LogIn\LogInModuleView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\AddDeviceNumberWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\DeviceListView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageLogView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageListView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MiscellaneousModuleView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\AddStationWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationEditInformationView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationInformationView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationListView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationModuleView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyHumidityWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyPressureWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain15Window.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain24Window.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarHourWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarMinutewWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyTempWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyWindSpeedWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyHumidityWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyPressureWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain15Window.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain24Window.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarHourWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarMinuteWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyTempWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyWindSpeedWindow.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.baml
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Helpers\ReportViewer\ReportView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\MainWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Reports\Measurements\MeasurementReportWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\LiveWeatherModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\MapView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LiveWeather\StationWeatherView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\LogIn\LogInModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\AddDeviceNumberWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\DeviceListView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageLogView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MessageListView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Miscellaneous\MiscellaneousModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\AddStationWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationEditInformationView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationInformationView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationListView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\Station\StationModuleView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\ChartBox.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\HumidityChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\PressureChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain15ChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\Rain24HChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarHourChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\SolarMinuteChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\WindSpeedChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateMonthlyChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\GenerateYearlyChartsView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\HumidityChartView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyHumidityWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyPressureWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain15Window.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyRain24Window.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarHourWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlySolarMinutewWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyTempWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlyCharts\MonthlyWindSpeedWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MonthlySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\PressureChartView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\RainfallChartView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\MeasurementChart.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\SearchBox.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\DailyCharts\TemperatureChartWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherChart.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\WeatherResults.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyHumidityWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyPressureWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain15Window.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyRain24Window.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarHourWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlySolarMinuteWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyTempWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlyCharts\YearlyWindSpeedWindow.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\Views\WeatherHistory\YearlySearchBoxView.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\App.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_Content.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.cache
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation_MarkupCompile.lref
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.g.resources
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.Properties.Resources.resources
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.csproj.GenerateResource.Cache
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.cache
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\RdlCompile.compiled
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.exe
+C:\Users\Helson\Desktop\New folder\New folder\AutomatedWeatherStation\AutomatedWeatherStation\obj\Debug\AutomatedWeatherStation.pdb
